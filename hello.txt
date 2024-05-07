@@ -1,1 +1,4 @@
 hello，中国！
+
+
+ssh-keygen -t rsa -C "731278566@qq.com"
